@@ -1,9 +1,10 @@
-![Banner Image](svg/git%20banner.png)
+
 <div align="center">
    <h1>Hi there, I'm <a href="">Dattahari Kadam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    <img src="svg/pronouns/hehim.svg"> 
 </div>
+
 
 <p align='center'>
   <a href="www.linkedin.com/in/dattahari-kadam7"><img height="30" src="linkedin.png"></a>&nbsp;&nbsp;
@@ -58,7 +59,7 @@
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="#">
+  <a href="https://www.instagram.com/dattahari_kadam_/">
     <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
 
@@ -72,13 +73,46 @@
 
 </p>
 
----
+<br/>
 
-<p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
+### - Competitive Programming...
+<p align="left">
+   <a href="https://leetcode.com/u/Dattahari07/"><img alt="Leetcode" src="svg/dev/services/leetcode.svg"></a>
 </p>
 
-<!--  -->
+<br/>
+
+### - Technologies and Tools...
+
+<p align="center">
+
+  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
+  
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>
+    <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ 
+  <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+
+</p>
+
+---
+
+### Profile Statistics... 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dattahari7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -87,48 +121,6 @@
 
 <br />
 
-### - Languages and Tools...
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
-  <a href="#">
-    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-</p>
 
 ### - What i do
 
