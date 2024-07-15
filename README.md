@@ -79,7 +79,7 @@
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
 
-  <a href="dattaharik61@gmail.com">
+  <a href="mailto:dattaharik61@gmail.com">
     <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 
