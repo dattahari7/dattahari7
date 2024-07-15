@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![dattahari7 Banner Image](./gitbanner.png)
 <div align="center">
-   <h1>Hi there, I'm <a href="">Dattahari Kadam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="">Dattahari</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    <img src="svg/pronouns/hehim.svg"> 
 </div>
@@ -32,7 +32,7 @@
  
 <br />
 
-# *Digital Craftsman (Developer / Programmer)*
+# *Digital Craftsman (Developer / Competitive Programmer)*
 
 <!--Night Owl image-->
 <div>
