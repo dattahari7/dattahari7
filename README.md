@@ -1,4 +1,5 @@
-
+<!-- Banner -->
+![dattahari7 Banner Image](./gitbanner.png)
 <div align="center">
    <h1>Hi there, I'm <a href="">Dattahari Kadam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
@@ -30,12 +31,21 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="svg/coding.gif" />
-<p align="center">
-  <h3> I'm 23 years old Full-Stack developer from India.</h3>
-</p>
+
+# *Digital Craftsman (Developer / Programmer)*
+
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - A passionate Competitive Programmer & Software Engineer
+
+- ✨ Student of life :)
+  
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 
 - 💻 I'm a Fullstack Developer, currently exploring Web3 Space
 
@@ -50,6 +60,8 @@
 - 🏆 Grand Finalist of "Smart India Hackathon 2019" - Software Edition
 
 - ⚡I love to attend Meetups for learning & Conferences for Networking
+
+<br/>
 
 ## 💬Connect? lets get social 👉🏼
 
@@ -109,27 +121,42 @@
   <img src="svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
 </p>
+<br/>
 
----
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-### Profile Statistics... 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dattahari7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dattahari7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/dattahari7">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=dattahari7&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/dattahari7">
+          <img align="center" src="https://streak-stats.demolab.com?user=dattahari7&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 <br />
 
 
-### - What i do
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
-<br />
-
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-   <img src="svg/what I do.gif" />
+    <img src="https://readme-daily-quotes.vercel.app/api?author=George%20Eliot&quote=Every%20limit%20is%20a%20beginning%20as%20well%20as%20an%20ending.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
-   
+<!--ENDS_HERE_QUOTE_CARD-->
    
 <br />
 
